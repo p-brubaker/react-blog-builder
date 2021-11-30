@@ -22,7 +22,7 @@ export default function Editor({
           type="text"
           value={title}
           onChange={(e) => setTitle(e.target.value)}
-        />
+        />{" "}
         <label htmlFor="title">Title</label>
       </div>
       <div className="form-control">
