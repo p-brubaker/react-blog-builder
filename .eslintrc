@@ -35,14 +35,6 @@
         "ignoreComments": true
       }
     ],
-    "quotes": [
-      "error",
-      "single",
-      {
-        "avoidEscape": true,
-        "allowTemplateLiterals": true
-      }
-    ],
     "no-multi-spaces": [
       "error",
       {
@@ -56,7 +48,6 @@
         "builtinGlobals": true
       }
     ],
-    "semi": ["error", "never"],
     "space-in-parens": ["error"],
     "space-infix-ops": "error",
     "object-curly-spacing": ["error", "always"],
